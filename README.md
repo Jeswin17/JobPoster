@@ -5,7 +5,8 @@
 3. Nodemon
 4. Vercel for Deployment
 5. MongoDB and Monk
-
+* server/cmd/node run dev (opens nodemon ) 
+* client/cmd/npm start ( lite-server )
 
 [    ] Mongo DB backend needs to be worked on 
 
