@@ -1,4 +1,4 @@
-# JobPoster Full Stack App
+# 🧑‍🎓 JobPoster Full Stack App
 
 1. Express.js
 2. Server side js
